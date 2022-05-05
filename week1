@@ -1,0 +1,5 @@
+The tcpdump tool is a powerful command-line analyzer that captures or "sniffs" TCP/IP packets.
+Wireshark is an open source tool for profiling network traffic and analyzing TCP/IP packets.
+
+The strace command shows us all the system calls our program made. 
+System calls are the calls that the programs running in our computer make to the running kernel.
