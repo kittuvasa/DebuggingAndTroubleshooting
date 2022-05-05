@@ -3,3 +3,7 @@ Wireshark is an open source tool for profiling network traffic and analyzing TCP
 
 The strace command shows us all the system calls our program made. 
 System calls are the calls that the programs running in our computer make to the running kernel.
+
+Understanding the root cause is essential for providing the long-term resolution.
+
+Power cycling releases resources stored in cache or memory, which gets rid of the problem.  
