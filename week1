@@ -9,3 +9,6 @@ Understanding the root cause is essential for providing the long-term resolution
 Power cycling releases resources stored in cache or memory, which gets rid of the problem.  
 
 A program keeping a state without any change can slow down a computer up until it is rebooted. 
+
+PYTHON PROFILER
+The cProfile module is used to count how many times functions are called, and how long they run.
