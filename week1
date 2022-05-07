@@ -12,3 +12,9 @@ A program keeping a state without any change can slow down a computer up until i
 
 PYTHON PROFILER
 The cProfile module is used to count how many times functions are called, and how long they run.
+
+We can precede the name of our commands and scripts with the "time" shell builtin and the shell will output execution time statistics when they complete.
+
+The kcachegrind tool is used for profile data visualization that, if we can insert some code into the program, can tell us how long execution of each function takes.
+
+ cProfile provides deterministic profiling of Python programs, including how often and for how long various parts of the program executed.
