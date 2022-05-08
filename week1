@@ -22,3 +22,7 @@ The kcachegrind tool is used for profile data visualization that, if we can inse
 A script is CPU bound if you're running operations in parallel using all available CPU time.  
 
 he futures module makes it possible to run operations in parallel using different executors.  
+
+https://realpython.com/python-concurrency/
+
+https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32
