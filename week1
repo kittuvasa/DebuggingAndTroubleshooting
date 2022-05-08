@@ -20,3 +20,5 @@ The kcachegrind tool is used for profile data visualization that, if we can inse
  cProfile provides deterministic profiling of Python programs, including how often and for how long various parts of the program executed.
 
 A script is CPU bound if you're running operations in parallel using all available CPU time.  
+
+he futures module makes it possible to run operations in parallel using different executors.  
