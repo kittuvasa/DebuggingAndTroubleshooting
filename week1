@@ -18,3 +18,5 @@ We can precede the name of our commands and scripts with the "time" shell builti
 The kcachegrind tool is used for profile data visualization that, if we can insert some code into the program, can tell us how long execution of each function takes.
 
  cProfile provides deterministic profiling of Python programs, including how often and for how long various parts of the program executed.
+
+A script is CPU bound if you're running operations in parallel using all available CPU time.  
