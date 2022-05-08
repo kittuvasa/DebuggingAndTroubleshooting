@@ -21,7 +21,18 @@ The kcachegrind tool is used for profile data visualization that, if we can inse
 
 A script is CPU bound if you're running operations in parallel using all available CPU time.  
 
-he futures module makes it possible to run operations in parallel using different executors.  
+The futures module makes it possible to run operations in parallel using different executors. 
+
+Memchached is a caching service that keeps most commonly accessed database queries in RAM.
+
+Asyncio is a module that lets you specify parts of the code to run as separate asynchronous events.
+
+Threading allows a process to split itself into parallel tasks.
+
+Concurrency in computer science is the ability of different sections or units of a program, algorithm, or 
+problem to be executed out of order or in partial order, without impacting the final result.
+
+ If our program mainly finds itself waiting on local disks or the network, it is I/O bound. 
 
 https://realpython.com/python-concurrency/
 
