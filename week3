@@ -2,3 +2,5 @@ https://www.maketecheasier.com/check-hard-disk-health-windows/
 
 
  A container allows the application to run in its own environment without interfering with the rest of the system.  
+ 
+ The /etc directory will contain the application folder that stores configuration files.  
