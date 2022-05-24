@@ -23,5 +23,5 @@ Core files
  Removing the server from the pool will provide full service to users from the remaining web servers  
  The communications lead provides timely updates on the incident and answers questions from users.  
  
- 
+ A postmortem of an incident should not include the person(s) who caused the issue.  
  
