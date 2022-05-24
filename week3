@@ -6,7 +6,13 @@ https://www.maketecheasier.com/check-hard-disk-health-windows/
  The /etc directory will contain the application folder that stores configuration files.  
  
  
+ Segmentation fault is not commonly caused by a new RAM card in the system.
+ 
+ The Off-by-one bug, often abbreviated as OB1, frequently happens in computer programming when an iterative process iterates one time too many or too little.
+  Printf debugging originated in name with using the printf() command in C++ to display debug information, and the name stuck. This type of debugging is useful in all languages.
+  
  
 Core files
  When a process crashes, the operating system may generate a file containing information about the 
  state of the process in memory to help the developer debug the program later. 
+ ore files (or core dump files) record an image and status of a running process, and can be used to determine the cause of a crash.
