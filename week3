@@ -16,3 +16,12 @@ Core files
  When a process crashes, the operating system may generate a file containing information about the 
  state of the process in memory to help the developer debug the program later. 
  ore files (or core dump files) record an image and status of a running process, and can be used to determine the cause of a crash.
+ 
+ 
+ Performing a rollback may apply to a situation where all services were affected.  
+ Standby servers can be used to provide support for increased demand to the site.  
+ Removing the server from the pool will provide full service to users from the remaining web servers  
+ The communications lead provides timely updates on the incident and answers questions from users.  
+ 
+ 
+ 
