@@ -1,0 +1,11 @@
+
+Guppy is a Python library with tools to profile an entire Python application.
+
+Traffic shaping can mark data packets and assign higher priorities when being sent over the network.
+
+Latency is a measure of the time it takes for a request to reach its destination.
+
+The top command will show us all running processes and their memory usage in Linux.
+
+Sometimes a file is marked as deleted right after it is opened, so the program doesn't "forget" later.
+The file is then written to, but we can't see this as the file is already marked as deleted, but will not actually be deleted until the process is finished.
