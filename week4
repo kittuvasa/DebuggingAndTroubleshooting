@@ -9,3 +9,10 @@ The top command will show us all running processes and their memory usage in Lin
 
 Sometimes a file is marked as deleted right after it is opened, so the program doesn't "forget" later.
 The file is then written to, but we can't see this as the file is already marked as deleted, but will not actually be deleted until the process is finished.
+
+
+Technical debt is defined as the implied cost of additional rework caused by choosing an easy (limited) solution now instead of using a better, but more difficult, solution.
+
+If your original estimate turned out to be overly optimistic, it’s appropriate to re-estimate.
+
+
