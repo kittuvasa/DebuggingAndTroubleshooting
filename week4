@@ -15,4 +15,6 @@ Technical debt is defined as the implied cost of additional rework caused by cho
 
 If your original estimate turned out to be overly optimistic, it’s appropriate to re-estimate.
 
+Including debug logging in code can make troubleshooting easier because logs can help pinpoint the actual issue, and speed up remediation.  
+
 
