@@ -21,4 +21,12 @@ Network Attached Storage (NAS) products from vendors like NetApp can provide add
 
 When updating code to fix an issue, create a new test to ensure the change performs the intended actions.  
 
+Documentation that includes good instructions on how to resolve an issue can assist in resolving the same, or similar issue in the future.
+
+ An application that uses a lot of RAM can still run while CPU is mostly used by another application on the same server.
+ 
+ Reminiscent of the old term "canary in a coal mine", a canary is a test deployment of our software, just to see what happens.
+ 
+ A failure domain is a logical or physical component of a system that might fail.
+
 
